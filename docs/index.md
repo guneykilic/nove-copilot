@@ -1,15 +1,15 @@
 # docs/index.md dosyası:
 ---
 layout: default
-title: Nove Copilot Privacy Policy
+title: iZec | Copilot Privacy Policy
 ---
 
-# Privacy Policy for Nove Copilot
+# Privacy Policy for iZec | Copilot
 
-Last updated: November 14, 2024
+Last updated: December 9, 2024
 
 ## Overview
-Nove Copilot ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+iZec | Copilot ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
 
 ## Information Collection
 Our extension collects and stores the following information:
@@ -56,10 +56,10 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: guneycan.kilic@gmail.com
+- Email: support@izec.ai
 - Developer: Güneycan Kılıç
 
 # docs/_config.yml dosyası:
 theme: jekyll-theme-cayman
-title: Nove Copilot Privacy Policy
-description: Privacy Policy for the Nove Copilot Chrome Extension
+title: iZec | Copilot Privacy Policy
+description: Privacy Policy for the iZec | Copilot Chrome Extension
