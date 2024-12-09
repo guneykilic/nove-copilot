@@ -1,2 +1,2 @@
-# nove-copliot
-Privacy Policy for Nove Copilot Chrome Extension
+# iZec | Copilot
+Privacy Policy for iZec | Copilot Chrome Extension
